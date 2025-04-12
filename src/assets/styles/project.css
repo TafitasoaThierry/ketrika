@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    color: #ffffff;
+    font-size: 64px;
+    font-family: sans-serif;
+}
+
+.project-content {
+    height: 100vh;
+}
+
+.img-coding2 {
+    width: 100px;
+    margin: 16px;
+    border-radius: 100%;
+}
+
+.box{
+    border: 1px solid #ffffff;
+    height: 20px;
+    padding: 8px;
+    margin: 8px;
+}
+
+.ka {
+    color: rgb(255, 255, 90);
+}
+
+.add {
+    color: #ffffff;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
