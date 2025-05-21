@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Project from '@/components/Project.vue'
-import Problem from '@/components/Problem.vue'
+import Project from '../components/Project.vue'
+import Problem from '../components/Problem.vue'
 
 
 const routes = [
